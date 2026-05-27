@@ -24,7 +24,9 @@
       "endDate": "2026-05-26",
       "tags": [],
       "current": {
-        "wechatSessions": 362
+        "wechatSessions": 362,
+        "phoneCalls": 76,
+        "phoneConnectRate": 0.75
       },
       "yoy": {}
     }
