@@ -16,5 +16,17 @@
       "wechatP4Orders": "P4工单-企微"
     }
   },
-  "weeks": []
+  "weeks": [
+    {
+      "id": "2026-w22",
+      "label": "26年(05.26-05.26)",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-26",
+      "tags": [],
+      "current": {
+        "wechatSessions": 362
+      },
+      "yoy": {}
+    }
+  ]
 }
