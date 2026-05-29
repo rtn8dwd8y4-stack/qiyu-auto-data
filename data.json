@@ -38,8 +38,8 @@
       "tags": [],
       "group": "全部",
       "current": {
-        "phoneCalls": 512,
-        "phoneConnectRate": 0.74,
+        "phoneCalls": 58,
+        "phoneConnectRate": 0.86,
         "wechatSessions": 343
       },
       "yoy": {}
