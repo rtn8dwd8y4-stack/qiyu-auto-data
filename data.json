@@ -43,6 +43,20 @@
         "wechatSessions": 2395
       },
       "yoy": {}
+    },
+    {
+      "id": "2026-w19",
+      "label": "26年(04.24-05.07)",
+      "startDate": "2026-04-24",
+      "endDate": "2026-05-07",
+      "tags": [],
+      "group": "全部",
+      "current": {
+        "phoneCalls": 714,
+        "phoneConnectRate": 0.79,
+        "wechatSessions": 2150
+      },
+      "yoy": {}
     }
   ]
 }
