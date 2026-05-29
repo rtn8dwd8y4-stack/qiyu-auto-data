@@ -29,6 +29,20 @@
         "phoneConnectRate": 0.86
       },
       "yoy": {}
+    },
+    {
+      "id": "2026-w21",
+      "label": "26年(05.18-05.24)",
+      "startDate": "2026-05-18",
+      "endDate": "2026-05-24",
+      "tags": [],
+      "group": "全部",
+      "current": {
+        "phoneCalls": 512,
+        "phoneConnectRate": 0.74,
+        "wechatSessions": 343
+      },
+      "yoy": {}
     }
   ]
 }
